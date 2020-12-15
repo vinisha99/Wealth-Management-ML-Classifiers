@@ -8,9 +8,10 @@ The agenda of this project is to analyze the trend of customer churn from a weal
 - Build predictive model based on best accuracy and precision score.
 
 # Technologies used
-Language - Python.
-Libraries - pandas, numpy, keras, tensorflow, matplotlib, yellowbrick.
-Machine Learning Algorithms - Logistic Regression, Gaussian Naive Bayes, Decision Tree, Random Forest, XGBClassifier
+- Language : Python
+- Code Editor: Jupyter Notebook
+- Libraries : pandas, numpy, keras, tensorflow, matplotlib, yellowbrick
+- Machine Learning Algorithms : Logistic Regression, Gaussian Naive Bayes, Decision Tree, Random Forest, XGBClassifier
 
 # Result
 - Random Forest is the winner for building a predictive model for this dataset.
