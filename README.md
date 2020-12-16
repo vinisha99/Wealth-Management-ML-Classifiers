@@ -6,6 +6,7 @@ The agenda of this project is to analyze the trend of customer churn from a weal
 - Analyze customer churn trend
 - Predict future churn 
 - Build predictive model based on best accuracy and precision score.
+[Detailed Report](https://github.com/vinisha99/Wealth-Management-ML-Classifiers/blob/master/ReadMe.pdf)
 
 # Technologies used
 - Language : Python
